@@ -13,7 +13,7 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-ebid-947b60212/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mustafa-ebid.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafa@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mebid145@gmail.com)
 
 </div>
 
@@ -26,11 +26,9 @@
 const mustafa = {
     title: "Full-Stack Developer",
     location: "Cairo, Egypt 🇪🇬",
-    experience: "1+ Years",
+    experience: "2+ Years",
     specialization: "Next.js & React Ecosystem",
     currentlyLearning: "System Design & Advanced Patterns",
-    funFact: "Coffee intake → ∞ ☕",
-    motto: "Architecting digital universes with precise code and interactive motion."
 };
 ```
 
@@ -80,45 +78,24 @@ const mustafa = {
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Analytics
+<!-- Philosophy & Languages -->
+## 🧠 My Development Philosophy
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mebid14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=a855f7&text_color=94a3b8&ring_color=06b6d4" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mebid14&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=A855F7&currStreakLabel=06B6D4&sideLabels=94A3B8&dates=475569&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-</div>
+> "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
+
+- **💎 Clean Architecture:** I prioritize writing modular, reusable, and maintainable code.
+- **🚀 Performance First:** Optimization and Core Web Vitals are core parts of my development process.
+- **♿ User-Centric:** Creating intuitive and accessible UI/UX designs.
+- **🔄 Modern Standards:** Leveraging the latest ecosystem features like **Next.js Server Actions** and **React Server Components**.
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mebid14&bg_color=0d1117&color=06b6d4&line=a855f7&point=06b6d4&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
-</div>
+## 🌍 Languages
+
+**Arabic:** Native 🇪🇬 &nbsp;&nbsp;|&nbsp;&nbsp; **English:** Professional 🇺🇸
 
 ---
 
-<!-- Featured Projects -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://ecommerce-inky-kappa.vercel.app">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mebid14&repo=ecommerce&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=a855f7&text_color=94a3b8" />
-</a>
-<a href="https://write-speed-next.vercel.app/">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mebid14&repo=write-speed-next&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=a855f7&text_color=94a3b8" />
-</a>
-
-</div>
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| 🛒 **Full E-Commerce** | Production-ready Arabic RTL e-commerce platform with Admin Dashboard | Next.js 15, React 19, TypeScript, Prisma, MongoDB | [Live Demo](https://ecommerce-inky-kappa.vercel.app) |
-| ⌨️ **Writing Speed Test** | Typing speed test with real-time WPM tracking & analytics | Next.js 16, TypeScript, Tailwind CSS 4, shadcn/ui | [Live Demo](https://write-speed-next.vercel.app/) |
-| 🐍 **Snake Game** | Modern Snake game with smooth controls & progressive difficulty | JavaScript, HTML5 Canvas, CSS3 | [Live Demo](https://snaakee-gaame.netlify.app) |
-| 🏢 **DigiMedia** | Professional agency website with scroll animations | JavaScript, Sass, HTML5 | [Live Demo](https://websitee-js.netlify.app) |
-| 📝 **Quiz Application** | Interactive quiz platform with timer & scoring system | React, Context API, Styled Components | [Live Demo](https://quiz-app-5app.netlify.app) |
-
----
 
 <!-- Current Focus -->
 ## 🎯 What I'm Currently Up To
