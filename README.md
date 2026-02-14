@@ -38,7 +38,6 @@ const mustafa = {
 - 🌱 Deep diving into **Next.js 16, TypeScript & System Architecture**
 - 💡 Passionate about **Clean Code, Performance & UX**
 - 🎯 Goal: Building production-ready, scalable applications
-- ⚡ Fun fact: I drink **infinite coffee** while coding ☕
 
 <br clear="right"/>
 
