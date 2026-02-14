@@ -90,11 +90,7 @@ const mustafa = {
 
 <br/>
 
-## 🌍 Languages
 
-**Arabic:** Native 🇪🇬 &nbsp;&nbsp;|&nbsp;&nbsp; **English:** Professional 🇺🇸
-
----
 
 
 <!-- Current Focus -->
